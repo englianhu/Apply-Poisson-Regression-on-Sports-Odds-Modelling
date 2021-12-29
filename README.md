@@ -1,2 +1,7 @@
-# Apply-Poisson-Regression-on-Sports-Odds-Modelling
-Apply Poisson Regression on Sports Odds Modelling
+# Apply Poisson Regression on Sports Odds Modelling
+
+- [Calculator.xls]()
+- [Statistics (ver3).xls]()
+
+
+
