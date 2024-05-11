@@ -9,6 +9,7 @@
 - [算筹电子表格`Calculator.xls`](https://github.com/englianhu/Apply-Poisson-Regression-on-Sports-Odds-Modelling/blob/main/Document/Calculator.xls)
 - [计数|机数造物电子表格（第三版）`Statistics (ver3).xls`](https://github.com/englianhu/Apply-Poisson-Regression-on-Sports-Odds-Modelling/blob/main/Document/Statistics%20(ver3).xls)
 
-------------------------------------------------------------------------
+---
 
-<span style='color:RoyalBlue'>**Powered by - Copyright® Intellectual Property Rights of [<img src="figure/Scibrokes.png" width="14"/> Sςιβrοκεrs Trαdιηg®](http://www.scibrokes.com) 個人の経営企業**</span>
+[<img src="诸子百家考工记/世博量化.png" height="14"/> Sςιβrοκεrs Trαdιηg®](http://www.scibrokes.com)<br>
+<span style='color:RoyalBlue'>**[<img src="诸子百家考工记/世博量化.png" height="14"/> 世博量化®](http://www.scibrokes.com)企业知识产权及版权所有，盗版必究。**</span>
